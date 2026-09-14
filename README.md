@@ -1,7 +1,7 @@
 # Propuesta Formativa Obligatoria: Chat Cliente-Servidor TCP con Sockets y SQLite (Multihilo)
 
 **Asignatura:** Programación sobre Redes  
-**Carrera:** Tecnicatura Universitaria en Desarrollo de Software  
+**Carrera:** Tecnicatura Superior en Desarrollo de Software  
 
 ---
 
