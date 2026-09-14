@@ -1,0 +1,22 @@
+Entornos virtuales
+.venv/
+venv/
+ENV/
+env/
+Archivos de base de datos local (evita commitear datos de prueba locales)
+*.db
+*.sqlite
+*.sqlite3
+Caché de Python
+pycache/
+*.py[cod]
+*$py.class
+Configuraciones de editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+Logs y volcados del sistema
+*.log
+Thumbs.db
+Desktop.ini
